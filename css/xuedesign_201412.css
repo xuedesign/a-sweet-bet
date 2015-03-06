@@ -188,6 +188,7 @@ h1 a{
 #box_aside a.nav_04{ background-position: 0 -216px}
 #box_aside a.nav_04:hover{ background-position: 0 -250px}
 #box_aside a.nav_05{ background-position: 0 -288px}
+#box_aside a.nav_05:hover{ background-position: 0 -324px}
 
 /* 2.4 版權列 */					
 footer{
@@ -263,7 +264,7 @@ footer .txt_ad{
 #box_aside li a{
 	display: block;
 	float:left;
-	width:115px;
+	width:150px;
 	height:36px;
 	text-indent:-9999px;
 	background:url(../images/btn_nav.png) no-repeat;
